@@ -2,7 +2,7 @@ call tools\setup-common.bat
 
 set build_dir=build-release
 set build_type=Release
-set conan_profile=scwx-win64_msvc2022
+set conan_profile=scwx-windows_msvc2022_x64
 set qt_version=6.8.3
 set qt_arch=msvc2022_64
 
